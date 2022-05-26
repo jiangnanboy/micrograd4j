@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45db2e2-c009-4307-a4d1-8e2d454e9876" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="29bJwAkHXuXO3b6oFIzm7sf0ll9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36091954" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+      <recent name="sy.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_project\micrograd4j\src\main\resources" />
+      <recent name="E:\idea_project\micrograd4j\src\main\java" />
+      <recent name="E:\idea_project\micrograd4j\src\main\java\micrograd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestEngine (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="micrograd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Layer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sy.micrograd4j.nn.Layer" />
+      <module name="micrograd4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sy.nn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sy.engine.Test" />
+      <module name="micrograd4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sy.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEngine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestEngine" />
+      <module name="micrograd4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sy.test.TestEngine" />
+      <module name="micrograd4j" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestEngine (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.TestEngine" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Layer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45db2e2-c009-4307-a4d1-8e2d454e9876" name="Default Changelist" comment="" />
+      <created>1653376087447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653376087447</updated>
+      <workItem from="1653376091616" duration="8102000" />
+      <workItem from="1653442775184" duration="19133000" />
+      <workItem from="1653525120912" duration="10309000" />
+      <workItem from="1653542099978" duration="14367000" />
+      <workItem from="1653560940426" duration="3890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="362" key="#Project_Structure" timestamp="1653543288914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="362" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1653543288914" />
+    <state x="850" y="674" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1653542162061">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="674" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653542162061" />
+    <state x="868" y="593" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1653542296919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="868" y="593" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1653542296919" />
+    <state x="41" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1653467174614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="41" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653467174614" />
+    <state width="1493" height="528" key="GridCell.Tab.0.bottom" timestamp="1653564422251">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="528" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1653564422251" />
+    <state width="1324" height="525" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653556891127" />
+    <state width="1493" height="528" key="GridCell.Tab.0.center" timestamp="1653564422251">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="528" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1653564422251" />
+    <state width="1324" height="525" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653556891127" />
+    <state width="1493" height="528" key="GridCell.Tab.0.left" timestamp="1653564422251">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="528" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1653564422251" />
+    <state width="1324" height="525" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653556891127" />
+    <state width="1493" height="528" key="GridCell.Tab.0.right" timestamp="1653564422251">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="528" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1653564422251" />
+    <state width="1324" height="525" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653556891127" />
+    <state width="1324" height="263" key="GridCell.Tab.1.bottom" timestamp="1653542051599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1653542051599" />
+    <state width="1324" height="263" key="GridCell.Tab.1.center" timestamp="1653542051599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1653542051599" />
+    <state width="1324" height="263" key="GridCell.Tab.1.left" timestamp="1653542051599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1653542051599" />
+    <state width="1324" height="263" key="GridCell.Tab.1.right" timestamp="1653542051599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1653542051599" />
+    <state x="0" y="355" key="Maven.ArtifactSearchDialog" timestamp="1653541720483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="355" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653541720483" />
+    <state x="310" y="0" key="SettingsEditor" timestamp="1653565583609">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="310" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1653565583609" />
+    <state x="387" y="194" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653547586061" />
+    <state x="821" y="329" key="run.anything.popup" timestamp="1653547092967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="329" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653547092967" />
+    <state x="711" y="341" width="672" height="678" key="search.everywhere.popup" timestamp="1653535385397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="341" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653535385397" />
+  </component>
+</project>
