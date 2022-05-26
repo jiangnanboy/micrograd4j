@@ -140,3 +140,19 @@ step 98 loss 0.021910340545673795, accuracy 100.0%
 step 99 loss 0.02094203506234891, accuracy 100.0%
 ``` 
 
+### Cite
+
+If you use micrograd4j in your research, please cite it as follows:
+
+```latex
+@software{micrograd4j,
+  author = {Shi Yan},
+  title = {A micro Autograd engine developed with java},
+  year = {2022},
+  url = {https://github.com/jiangnanboy/micrograd4j},
+}
+```
+
+### License
+
+MIT
