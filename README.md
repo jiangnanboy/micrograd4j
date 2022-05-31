@@ -1,6 +1,6 @@
 # micrograd4j
 
-利用java开发一个Autograd引擎。动态构建DAG，并实现反向传播。
+利用java开发一个Autograd引擎。动态构建DAG，并实现[反向传播](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation) 。
 
 A micro Autograd engine developed with java(The idea for this project came from [micrograd](https://github.com/karpathy/micrograd)). Implements backpropagation (reverse-mode autodiff) over a dynamically built DAG. The DAG only operates over scalar values. we chop up each neuron into all of its individual tiny adds and multiplies. However, this is enough to build up entire deep neural nets doing binary classification.
 
@@ -27,7 +27,13 @@ g = g.add(f.rdiv(10.0));
 g.backward();
 System.out.println("a.data -> " + a.data + "; " + "a.grad -> " + a.grad); // a.data -> -4.0; a.grad -> 138.83381924198252
 System.out.println("b.data -> " + b.data + "; " + "b.grad -> " + b.grad); // b.data -> 2.0; b.grad -> 645.5772594752186
-System.out.println("g.data -> " + g.data + "; " + "g.grad -> " + g.grad); // g.data -> 24.70408163265306; g.grad -> 1.0
+System.out.println("g.data -> " + g.data); // g.data -> 24.70408163265306
+
+# vs torch
+a.data -> tensor([-4.], dtype=torch.float64); a.grad -> tensor([138.8338], dtype=torch.float64)
+b.data -> tensor([2.], dtype=torch.float64); b.grad -> tensor([645.5773], dtype=torch.float64)
+g.data -> tensor([24.7041], dtype=torch.float64)
+
 ```
 
 ### Training a neural net
